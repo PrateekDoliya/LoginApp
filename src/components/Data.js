@@ -1,0 +1,54 @@
+let data = [
+    {
+        code:'A001',
+        name:'Ayush',
+        score:81
+    },
+    {
+        code:'A002',
+        name:'Radha',
+        score:23
+    },
+    {
+        code:'A003',
+        name:'Rohan',
+        score:32
+    },
+    {
+        code:'A004',
+        name:'Mayur',
+        score:22
+    },
+    {
+        code:'A005',
+        name:'Shivani',
+        score:75
+    },
+    {
+        code:'A006',
+        name:'Avika',
+        score:34
+    },
+    {
+        code:'A007',
+        name:'John',
+        score:45
+    },
+    {
+        code:'A008',
+        name:'Rony',
+        score:54
+    },
+    {
+        code:'A009',
+        name:'Karan',
+        score:45
+    },
+    {
+        code:'A010',
+        name:'Shyam',
+        score:71
+    },
+]
+
+export { data };
